@@ -1,0 +1,30 @@
+# Archivos generados por Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/launch.json
+
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Archivos compilados
+*.class
+
+# Logs
+*.log
+
+# Claude
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
